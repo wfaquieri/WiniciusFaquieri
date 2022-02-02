@@ -1,4 +1,4 @@
-# WiniciusFaquieri
+# About me
 
 ---
 title: "Winicius Faquieri"
