@@ -38,8 +38,7 @@ I am a data analyst in the Data Mining team at FGV-IBRE, I have experience in da
 
 -[Can Gaussian factor models of commodity prices capture the financialization phenomenon?](https://www.sciencedirect.com/science/article/abs/pii/S1062940819300117)
 
--Hedging the Brazilian stock index in the era of low interest rates: What has changed?
-https://bibliotecadigital.fgv.br/ojs/index.php/rbfin/article/view/81625
+-[Hedging the Brazilian stock index in the era of low interest rates: What has changed?](https://bibliotecadigital.fgv.br/ojs/index.php/rbfin/article/view/81625)
 
 -[Análise do comportamento da volatilidade da taxa de câmbio euro-dolar](https://www.e-publicacoes.uerj.br/index.php/cadest/article/view/27738)
 
