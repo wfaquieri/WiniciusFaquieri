@@ -22,7 +22,9 @@ I am a data analyst in the Data Mining team at FGV-IBRE, I have experience in da
 
 -Economist (UERJ - State University of Rio de Janeiro)
 
--Master in Economics (UERJ - State University of Rio de Janeiro).
+-Refresher course in Economic Theory (UFRJ - Federal University of Rio de Janeiro)
+
+-Master in Economics (UERJ - State University of Rio de Janeiro)
 
 -Master in Technology in artificial intelligence, machine learning and deep learning (INFNET Institute) - In progress...
 
