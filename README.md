@@ -30,3 +30,23 @@ I am a data analyst in the Data Mining team at FGV-IBRE, I have experience in da
 # Specialties:
 
 -Programming in R, Statistical & Econometrics, SQL, BigQuery, Text Mining, Visualizations, Development of Web applications and Dashboards (using R Shiny library).
+
+
+# Publications
+
+-Can Gaussian factor models of commodity prices capture the financialization phenomenon?
+https://www.sciencedirect.com/science/article/abs/pii/S1062940819300117
+
+-Hedging the Brazilian stock index in the era of low interest rates: What has changed?
+https://bibliotecadigital.fgv.br/ojs/index.php/rbfin/article/view/81625
+
+-ANÁLISE DO COMPORTAMENTO DA VOLATILIDADE DA TAXA DE CÂMBIO EURO-DÓLAR
+https://www.e-publicacoes.uerj.br/index.php/cadest/article/view/27738
+
+-Financialização dos mercados futuros de commodities: uma abordagem através do modelo de Schwartz-Smith
+https://www.bdtd.uerj.br:8443/handle/1/7653
+
+-Financialization of the commodity future markets through factor models (IMPA, Research in Options 2017)
+https://impa.br/wp-content/uploads/2017/11/RiO2017-CT_FAiube.pdf
+
+
