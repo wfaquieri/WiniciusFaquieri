@@ -9,11 +9,12 @@ I am a data analyst in the Data Mining team at FGV-IBRE, I have experience in da
 
 # Education:
 
--Economist (UERJ - State University of Rio de Janeiro)
+-Master in Technology in artificial intelligence, machine learning and deep learning (INFNET Institute) - In progress...
 
 -Master in Economics (UERJ - State University of Rio de Janeiro)
 
--Master in Technology in artificial intelligence, machine learning and deep learning (INFNET Institute) - In progress...
+-Economist (UERJ - State University of Rio de Janeiro)
+
 
 
 # Specialties:
