@@ -5,37 +5,21 @@
 I am a data analyst in the Data Mining team at FGV-IBRE, I have experience in data research and analysis. I have been at FGV since 2017 and have already developed and participated in several projects related to Data Science, Data Analytics and Big Data.
 
 ---
-<i class="fa-solid fa-user"></i>
 
 # Education:
 
--[2022-2023] Master in Technology in artificial intelligence, machine learning and deep learning (INFNET Institute) - In progress...
+-[2022-2023] Master in Technology in artificial intelligence, machine learning and deep learning (INFNET Institute) - :fa-bars-progress:
 
--[2016-2017] Master in Economics (UERJ - State University of Rio de Janeiro) :heavy_check_mark:
+-[2016-2017] Master in Economics (UERJ - State University of Rio de Janeiro) :fa-circle-check:
 
 -[2015] CATE-Course in Economic Theory (UFRJ - Federal University of Rio de Janeiro) :heavy_check_mark:
 
 -[2010-2014] Economist (UERJ - State University of Rio de Janeiro) :heavy_check_mark:
 
-[<img src="https://img.shields.io/badge/LABEL-MESSAGE-COLOR.svg?logo=data:image/png;base64,DATA">](<LINK>)
-
-[<img src="https://fontawesome.com/icons/circle-check?s=duotone;base64,DATA">](<LINK>)
-
-
-<!-- All of these code snippets will render the same icon thanks to aliases. -->
-<i class="fa-solid fa-cutlery"></i>
-<i class="fa-solid fa-utensils"></i>
-<i class="fas fa-utensils"></i>
 
 # Specialties:
 
 -Programming in R, Statistical & Econometrics, SQL, BigQuery, Text Mining, Visualizations, Development of Web applications and Dashboards (using R Shiny library).
-
-[<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white;base64,DATA">](<LINK>)
-
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={wfaquieri};base64,DATA">](<LINK>)
-
-
 
 
 # Publications
