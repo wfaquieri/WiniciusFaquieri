@@ -17,8 +17,9 @@ I am a data analyst in the Data Mining team at FGV-IBRE, I have experience in da
 
 -[2010-2014] Economist (UERJ - State University of Rio de Janeiro) 
 
+[<img src="https://img.shields.io/badge/LABEL-MESSAGE-COLOR.svg?logo=data:image/png;base64,DATA">](<LINK>)
 
-
+[<img src="https://fontawesome.com/icons/circle-check?s=duotone;base64,DATA">](<LINK>)
 
 
 # Specialties:
