@@ -12,7 +12,7 @@ I am a data analyst in the Data Mining team at FGV-IBRE, I have experience in da
 
 -[2016-2017] Master in Economics (UERJ - State University of Rio de Janeiro) :heavy_check_mark:
 
--[2015] CATE-Course in Economic Theory (UFRJ - Federal University of Rio de Janeiro) :heavy_check_mark:
+-[2015] Course in Economic Theory (UFRJ - Federal University of Rio de Janeiro) :heavy_check_mark:
 
 -[2010-2014] Economist (UERJ - State University of Rio de Janeiro) :heavy_check_mark:
 
