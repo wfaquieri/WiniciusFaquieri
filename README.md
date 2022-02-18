@@ -8,7 +8,7 @@ I am a data analyst in the Data Mining team at FGV-IBRE, I have experience in da
 
 # Education:
 
--[2022-2023] Master in Technology in artificial intelligence, machine learning and deep learning (INFNET Institute) - :clock2:
+-[2022-2023] Master in Technology in artificial intelligence, machine learning and deep learning (INFNET Institute) :clock2:
 
 -[2016-2017] Master in Economics (UERJ - State University of Rio de Janeiro) :heavy_check_mark:
 
