@@ -22,6 +22,11 @@ I am a data analyst in the Data Mining team at FGV-IBRE, I have experience in da
 [<img src="https://fontawesome.com/icons/circle-check?s=duotone;base64,DATA">](<LINK>)
 
 
+<!-- All of these code snippets will render the same icon thanks to aliases. -->
+<i class="fa-solid fa-cutlery"></i>
+<i class="fa-solid fa-utensils"></i>
+<i class="fas fa-utensils"></i>
+
 # Specialties:
 
 -Programming in R, Statistical & Econometrics, SQL, BigQuery, Text Mining, Visualizations, Development of Web applications and Dashboards (using R Shiny library).
