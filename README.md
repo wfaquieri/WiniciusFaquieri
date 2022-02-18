@@ -8,9 +8,9 @@ I am a data analyst in the Data Mining team at FGV-IBRE, I have experience in da
 
 # Education:
 
--[2022-2023] Master in Technology in artificial intelligence, machine learning and deep learning (INFNET Institute) - :fa-bars-progress:
+-[2022-2023] Master in Technology in artificial intelligence, machine learning and deep learning (INFNET Institute) - :clock2:
 
--[2016-2017] Master in Economics (UERJ - State University of Rio de Janeiro) :fa-circle-check:
+-[2016-2017] Master in Economics (UERJ - State University of Rio de Janeiro) :heavy_check_mark:
 
 -[2015] CATE-Course in Economic Theory (UFRJ - Federal University of Rio de Janeiro) :heavy_check_mark:
 
@@ -19,7 +19,7 @@ I am a data analyst in the Data Mining team at FGV-IBRE, I have experience in da
 
 # Specialties:
 
--Programming in R, Statistical & Econometrics, SQL, BigQuery, Text Mining, Visualizations, Development of Web applications and Dashboards (using R Shiny library).
+-Programming in R, Statistical & Econometrics, SQL, BigQuery, Text Mining, NLP, Visualizations, Development of Web applications and Dashboards (using R Shiny library).
 
 
 # Publications
