@@ -11,11 +11,7 @@ I am a data analyst in the Data Mining team at FGV-IBRE, I have experience in da
 
 -[2022-2023] Master in Technology in artificial intelligence, machine learning and deep learning (INFNET Institute) - In progress...
 
--[2016-2017] Master in Economics (UERJ - State University of Rio de Janeiro) <img src="fa-circle-check" width="50" height="50"> 
-
-<FontAwesomeIcon icon="fab fa-github" />
-
-<i class="fa-duotone fa-circle-check"></i>
+-[2016-2017] Master in Economics (UERJ - State University of Rio de Janeiro) <i class='fab fa-readme'>fa-readme</i>
 
 -[2015] CATE-Course in Economic Theory (UFRJ - Federal University of Rio de Janeiro)
 
