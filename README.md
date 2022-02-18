@@ -15,7 +15,11 @@ I am a data analyst in the Data Mining team at FGV-IBRE, I have experience in da
 
 -[2015] CATE-Course in Economic Theory (UFRJ - Federal University of Rio de Janeiro)
 
--[2010-2014] Economist (UERJ - State University of Rio de Janeiro) <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+-[2010-2014] Economist (UERJ - State University of Rio de Janeiro) 
+
+<img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" />
+
+![image]({https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white})
 
 
 
