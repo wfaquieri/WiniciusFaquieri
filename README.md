@@ -17,9 +17,9 @@ I am a data analyst in the Data Mining team at FGV-IBRE, I have experience in da
 
 -[2010-2014] Economist (UERJ - State University of Rio de Janeiro) 
 
-<img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" />
+<img src="{https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white}" />
 
-![image]({https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white})
+
 
 
 
@@ -27,6 +27,7 @@ I am a data analyst in the Data Mining team at FGV-IBRE, I have experience in da
 
 -Programming in R, Statistical & Econometrics, SQL, BigQuery, Text Mining, Visualizations, Development of Web applications and Dashboards (using R Shiny library).
 
+![image]({https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white})
 
 # Publications
 
