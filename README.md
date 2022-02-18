@@ -5,7 +5,7 @@
 I am a data analyst in the Data Mining team at FGV-IBRE, I have experience in data research and analysis. I have been at FGV since 2017 and have already developed and participated in several projects related to Data Science, Data Analytics and Big Data.
 
 ---
-
+<i class="fa-solid fa-user"></i>
 
 # Education:
 
