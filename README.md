@@ -3,7 +3,7 @@
 ---
 
 - I work as a data analyst in the Data Mining team at FGV-IBRE
-- I have technical skills in statistical programming, 
+- I have technical skills in statistical programming.
 
 ---
 
