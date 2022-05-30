@@ -1,10 +1,10 @@
 
 
 ---
- 
-I work as a data analyst in the Data Mining team at FGV-IBRE, I have experience in data research and analysis. I have been at FGV since 2017 and have already developed and participated in several projects related to Data Science, Data Analytics and Big Data.
-
-I have technical skills in statistical programming, with advanced knowledge in R; experience in developing, maintaining and deploying R Shiny application in production; Master's degree in Economics and master's student in artificial intelligence, machine learning and deep learning.
+- I have a Master Degree in Economics with an emphasis on Quantitative Methods. 
+- I found myself working and studying in the area of technology. 
+- I work as a data analyst in the Data Mining team at FGV-IBRE
+- I have technical skills in statistical programming, 
 
 ---
 
