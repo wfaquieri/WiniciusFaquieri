@@ -2,8 +2,16 @@
 
 ---
 
-- I work as a data analyst in the Data Mining team at FGV-IBRE
-- I have technical skills in statistical programming.
+# Projetos:
+
+- NLP with Python:
+- Text mining with stack ELK:
+- Neural Networks with TensorFlow:
+- Deep Learning with TensorFlow:
+- Unsupervised learning through clustering:
+- K-Means Clustering:
+- Supervised Learning with scikit-learn:
+- machine learning engineering:
 
 ---
 
