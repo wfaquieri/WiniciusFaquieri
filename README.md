@@ -4,7 +4,7 @@
 
 # Projects:
 
-- NLP with Python:
+- NLP with Python: [Topic modeling](https://github.com/wfaquieri/topic_modeling/blob/main/README.md)
 - Text mining with stack ELK:
 - Neural Networks with TensorFlow:
 - Deep Learning with TensorFlow:
