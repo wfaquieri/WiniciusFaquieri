@@ -1,8 +1,7 @@
 
 
 ---
-- I have a Master Degree in Economics with an emphasis on Quantitative Methods. 
-- I found myself working and studying in the area of technology. 
+
 - I work as a data analyst in the Data Mining team at FGV-IBRE
 - I have technical skills in statistical programming, 
 
