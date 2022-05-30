@@ -2,7 +2,7 @@
 
 ---
 
-# Projetos:
+# Projects:
 
 - NLP with Python:
 - Text mining with stack ELK:
@@ -11,7 +11,7 @@
 - Unsupervised learning through clustering:
 - K-Means Clustering:
 - Supervised Learning with scikit-learn:
-- machine learning engineering:
+- ML Engineering:
 
 ---
 
