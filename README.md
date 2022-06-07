@@ -11,7 +11,7 @@
 - K-Means Clustering:
 - Supervised Learning with scikit-learn:
 - ML Engineering:
-- Dashboards: 
+- Dashboards: [Dashboard Portland CPII](https://github.com/wfaquieri/dashboard-voto/blob/main/README.md)
 - Web applications:
 
 ---
