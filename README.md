@@ -11,6 +11,8 @@
 - K-Means Clustering:
 - Supervised Learning with scikit-learn:
 - ML Engineering:
+- Dashboards: 
+- Web applications:
 
 ---
 
