@@ -12,7 +12,7 @@
 - Supervised Learning with scikit-learn:
 - ML Engineering:
 - Dashboards: [Dashboard Portland CPII](https://github.com/wfaquieri/dashboard-voto/blob/main/README.md)
-- Web applications: [App Demo](https://github.com/wfaquieri/appCIs/blob/main/README.md)
+- Shiny Web apps: [App Demo](https://github.com/wfaquieri/appCIs/blob/main/README.md)
 
 ---
 
