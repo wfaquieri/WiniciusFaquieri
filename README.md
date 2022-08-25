@@ -12,7 +12,7 @@
 - Supervised Learning with scikit-learn:
 - ML Engineering:
 - Dashboards: [Portland CPII](https://github.com/wfaquieri/dashboard-voto/blob/main/README.md)
-- Shiny Web apps: (i) [App 1](https://github.com/wfaquieri/appCIs/blob/main/README.md) (ii) [App Squad Profile](https://winicius-faquieri.shinyapps.io/squad-profile/) (iii)[App Mapeamento]()
+- Shiny Web apps: (i) [App 1](https://github.com/wfaquieri/appCIs/blob/main/README.md) (ii) [App Squad Profile](https://winicius-faquieri.shinyapps.io/squad-profile/) (iii) [App Mapeamento](https://github.com/wfaquieri/app_mapeamento/blob/main/README.md)
 
 ---
 
