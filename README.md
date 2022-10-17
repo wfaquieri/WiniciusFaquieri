@@ -5,8 +5,7 @@
 
 - NLP with Python: [Topic modeling](https://github.com/wfaquieri/topic_modeling/blob/main/README.md)
 - Text mining with stack ELK: [Text Analysis with Elasticsearch](https://github.com/wfaquieri/mit-infnet/blob/main/04_text_minning_with_stack_ELK/Projeto_WiniciusFaquieri/winiciusfaquieri_text_mining_stack_ELK.ipynb)
-- Neural Networks with TensorFlow:
-- Deep Learning with TensorFlow:
+- Neural Networks and  Deep Learning with TensorFlow:
 - Unsupervised learning through clustering:
 - K-Means Clustering:
 - Supervised Learning with scikit-learn:
