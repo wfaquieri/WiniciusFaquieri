@@ -5,7 +5,7 @@
 
 - NLP with Python: [Topic modeling](https://github.com/wfaquieri/topic_modeling/blob/main/README.md)
 - Text mining with stack ELK: [Text Analysis with Elasticsearch](https://github.com/wfaquieri/mit-infnet/blob/main/04_text_minning_with_stack_ELK/Projeto_WiniciusFaquieri/winiciusfaquieri_text_mining_stack_ELK.ipynb)
-- Neural Networks and  Deep Learning with TensorFlow:
+- Neural Networks and Deep Learning:
 - Unsupervised learning through clustering:
 - K-Means Clustering:
 - Supervised Learning with scikit-learn:
@@ -28,7 +28,7 @@
 
 # Specialties:
 
--Programming in R, Statistical & Econometrics, SQL, BigQuery, Text Mining, NLP, Visualizations, Development of Web applications and Dashboards (using R Shiny library).
+-Programming in R, Python & SQL, Statistical & Econometrics, BigQuery, Text Mining, NLP, Neural Networks, Deep Learning, Visualizations, Development of Web applications and Dashboards (using R Shiny library).
 
 
 # Publications
